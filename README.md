@@ -1,6 +1,7 @@
 # Programming Language Theory
-Repository of Programming Language Theory at Handong Global University
-Language used: [Racket](https://racket-lang.org/)
+Repository of Programming Language Theory course @ HGU
+
+- Language used: [Racket](https://racket-lang.org/)
 
 ## Description
 
