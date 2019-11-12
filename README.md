@@ -7,4 +7,6 @@ Repository of Programming Language Theory course @ HGU
 
 - HW1: Practice Racket
 - HW2: Syntatic sugar and desugaring
+- HW3: Understanding Substitution
+- HW4: Understanding Laziness and RCFAE
 
